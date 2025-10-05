@@ -42,8 +42,10 @@
 
 ## 3) Реализация собственного сценария
 
+Выбирете один из сценариев описаных в `ScenariosDescription.md` и реализуйте для него функцию проверки, инструкции и конфиг для обучения.
+
 1. **Добавьте функцию проверки:**
-   Создайте новую функцию проверки в директории
+   Создайте новую функцию проверки в директории 
    [`craftext/environment/scenarious/checkers`](https://github.com/AIRI-Institute/CrafText/tree/main/craftext/environment/scenarious/checkers).
 
 2. **Сгенерируйте инструкции:**
